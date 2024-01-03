@@ -1,0 +1,14 @@
+{
+    "templates": {
+        "python-library": {
+            "path": ".//python-library",
+            "title": "Python library",
+            "description": "A cookiecutter template for a python library."
+        },
+        "python-application-docker": {
+            "path": "./python-application-docker",
+            "title": "Containerized python application",
+            "description": "A cookiecutter template for a containerized python application."
+        }
+    }
+}
